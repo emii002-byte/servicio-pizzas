@@ -88,3 +88,14 @@ Las pruebas de los endpoints de la API se realizan apuntando al puerto `3000`.
 
 ![Pruebas en Postman](./assets/postman-testing-POST.png)
 
+
+##  Reporte de Pruebas Automáticas (Newman HTML Extra)
+
+Se integró `newman` junto con `newman-reporter-htmlextra` para la ejecución automatizada de pruebas y generación de reportes HTML.
+
+### Generar el reporte:
+1. Asegúrate de tener el servidor activo (`npm start`).
+2. Ejecuta el comando de pruebas:
+   ```bash
+   npm run test:report
+

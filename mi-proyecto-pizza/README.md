@@ -85,5 +85,5 @@ Las pruebas de los endpoints de la API se realizan apuntando al puerto `3000`.
 
 ##  Evidencia de Pruebas (Postman Testing)
 
-![Pruebas en Postman](./assets/postman-testing-GET.png)
+![Pruebas en Postman](./assets/postman-testing - GET.png)
 

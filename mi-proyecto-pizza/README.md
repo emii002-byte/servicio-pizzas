@@ -61,7 +61,7 @@ Si la conexión es exitosa, la consola mostrará:
 
 
 
-## 🧪 Pruebas de API con Postman
+##  Pruebas de API con Postman
 
 Las pruebas de los endpoints de la API se realizan apuntando al puerto `3000`.
 
